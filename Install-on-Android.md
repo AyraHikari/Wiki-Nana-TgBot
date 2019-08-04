@@ -37,12 +37,6 @@ pipenv install -r requirements.txt
 
 > Install database is optional, if you want to use database in your bot, then follow this guide
 
-## Install database
-You need to install postgresql first for prevent failing build when installing python requirements
-```
-pkg update && pkg install postgresql
-```
-
 ## Create a database
 - Install postgresql (if not installed)
 ```
