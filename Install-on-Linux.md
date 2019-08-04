@@ -1,7 +1,17 @@
 ## Install Linux Requirements
 You need this to run your bot
 ```
-apt install update && apt install python3
+apt update -y && apt install git python3 python3-pip -y
+```
+
+## Clone repository
+Don't forget to clone repository, do this
+```
+git clone https://github.com/AyraHikari/Nana-TgBot
+```
+And then change dir to that repo
+```
+cd Nana-TgBot
 ```
 
 ## Install Python Requirements
