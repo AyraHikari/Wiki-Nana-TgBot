@@ -7,7 +7,7 @@ apt install update && apt install python3
 ## Install Python Requirements
 Install all requirements python, in your terminal type this
 ```
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 If you're using pipenv, use this instead
