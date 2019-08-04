@@ -1,7 +1,7 @@
 ## Install Linux Requirements
 You need this to run your bot
 ```
-apt update -y && apt install git postgresql python3 python3-pip -y
+apt update -y && apt install git postgresql python3 python3-pip  python-psycopg2 libpq-dev -y
 ```
 
 ## Clone repository
