@@ -1,4 +1,4 @@
-- Home
+- [Home](https://github.com/AyraHikari/Nana-TgBot/wiki)
 - Requirements
 - Create a Official Bot
 - Install Requirements
