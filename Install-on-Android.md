@@ -8,7 +8,7 @@ Also you can install kali nethunter in your android, but that was for **advanced
 
 > Before you go next guide, please look [this note first](https://github.com/AyraHikari/Nana-TgBot/wiki/Install-on-Android#note), so if something is wrong, you will know what to do next!
 
-## Install Linux Requirements
+## Install Termux Requirements
 You need this to run your bot
 ```
 pkg update && pkg install python
