@@ -1,0 +1,1 @@
+Nana userbot is brand new, and you are welcome to try it and help make it even better by either submitting pull requests or reporting issues/bugs as well as suggesting best practices, ideas, enhancements on both code and documentation. Any help is appreciated!
