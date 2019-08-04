@@ -1,0 +1,7 @@
+- Home
+- Requirements
+- Create a Official Bot
+- Install Requirements
+  - Install on Linux
+  - Install on Windows
+  - Install on Android
