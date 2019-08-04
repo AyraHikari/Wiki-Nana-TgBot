@@ -7,3 +7,4 @@
   - [Install on Android](https://github.com/AyraHikari/Nana-TgBot/wiki/Install-on-Android)
 - [Run Nana & Assistant](https://github.com/AyraHikari/Nana-TgBot/wiki/Run-Nana-and-Assistant)
 - [Getting update](https://github.com/AyraHikari/Nana-TgBot/wiki/Getting-update)
+- [Contributing](https://github.com/AyraHikari/Nana-TgBot/wiki/Contributing)
