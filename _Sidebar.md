@@ -5,3 +5,5 @@
   - Install on Linux
   - Install on Windows
   - Install on Android
+- Run Nana & Assistant
+- [Getting update](https://github.com/AyraHikari/Nana-TgBot/wiki/Getting-update)
