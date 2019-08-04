@@ -6,10 +6,12 @@ To run like python you need this app
 
 Also you can install kali nethunter in your android, but that was for **advanced user only**.
 
+> Before you go next guide, please look [this note first](https://github.com/AyraHikari/Nana-TgBot/wiki/Install-on-Android#note), so if something is wrong, you will know what to do next!
+
 ## Install Linux Requirements
 You need this to run your bot
 ```
-apt install update && apt install python3
+pkg update && pkg install python
 ```
 
 ## Install Python Requirements
