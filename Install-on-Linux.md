@@ -1,3 +1,9 @@
+## Install Linux Requirements
+You need this to run your bot
+```
+apt install update && apt install python3
+```
+
 ## Install Python Requirements
 Install all requirements python, in your terminal type this
 ```
