@@ -5,6 +5,7 @@
   - [Install on Linux](https://github.com/AyraHikari/Nana-TgBot/wiki/Install-on-Linux)
   - [Install on Windows](https://github.com/AyraHikari/Nana-TgBot/wiki/Install-on-Windows)
   - [Install on Android](https://github.com/AyraHikari/Nana-TgBot/wiki/Install-on-Android)
+  - [Install on Heroku](https://github.com/AyraHikari/Nana-TgBot/wiki/Install-on-Heroku)
 - [Configuration](https://github.com/AyraHikari/Nana-TgBot/wiki/Configuration)
 - [Run Nana & Assistant](https://github.com/AyraHikari/Nana-TgBot/wiki/Run-Nana-and-Assistant)
 - [Getting update](https://github.com/AyraHikari/Nana-TgBot/wiki/Getting-update)
