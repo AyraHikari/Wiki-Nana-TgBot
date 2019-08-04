@@ -14,6 +14,16 @@ You need this to run your bot
 pkg update && pkg install clang git postgresql python libcrypt-dev libjpeg-turbo
 ```
 
+## Clone repository
+Don't forget to clone repository, do this
+```
+git clone https://github.com/AyraHikari/Nana-TgBot
+```
+And then change dir to that repo
+```
+cd Nana-TgBot
+```
+
 ## Install Python Requirements
 Install all requirements python, in your terminal type this
 ```
