@@ -69,5 +69,5 @@ heroku logs --tail -a your-app-name
 
 - Restart bot
 ```
-heroku ps:restart
+heroku ps:restart -a your-app-name
 ```
