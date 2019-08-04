@@ -1,6 +1,6 @@
 - [Home](https://github.com/AyraHikari/Nana-TgBot/wiki)
 - [Requirements](https://github.com/AyraHikari/Nana-TgBot/wiki/Requirements)
-- Create a Official Bot
+- [Create a Official Bot](https://github.com/AyraHikari/Nana-TgBot/wiki/Create-a-Official-Bot)
 - Install Requirements
   - Install on Linux
   - Install on Windows
