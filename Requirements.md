@@ -1,4 +1,4 @@
-## Requirements
+To use this bot, you need to have this requirements.
 
 - Python 3.4 or higher.
 - [A Telegram API key](https://my.telegram.org/apps).
