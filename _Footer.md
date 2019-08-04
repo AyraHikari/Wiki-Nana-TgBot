@@ -1,0 +1,1 @@
+## [Go next guide](https://github.com/AyraHikari/Nana-TgBot/wiki/Requirements)
