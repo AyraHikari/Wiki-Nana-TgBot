@@ -19,33 +19,29 @@
 - Open CMD/Terminal, And login to your heroku account
 `heroku login`
 
-- Clone your app
+### Clone your app
 `heroku git:clone -a your-app-name`
 
 - Change dir to workdir
 `cd your-app-name`
 
-- Clone repository
+### Clone repository
 **You need to install git command**, google it if you dont know how to install that!
 ```
 git remote add upstream https://github.com/AyraHikari/Nana-TgBot
 git pull upstream master
 ```
 
-- Create a PostgreSQL
+### Create a PostgreSQL
 1. [Go here](https://dashboard.heroku.com/apps), and select your app
 2. Go resources tab, then search `Heroku Postgresql` in Add-ons, click that, and select Hobby Dev
 3. You've created a postgresql, open that and then new tab will open
 4. Go to Settings tab, View Credentials, copy URI for config later
 
-- Configuration
-1. [Go here](https://github.com/AyraHikari/Nana-TgBot/wiki/Configuration) and come back to here after you're create a config.py!
-2. Create a file name `Procfile` and fill this:
-```
-worker: python3 -m nana
-```
+### Configuration
+- [Go here](https://github.com/AyraHikari/Nana-TgBot/wiki/Configuration) and come back to here after you're create a config.py!
 
-- Push to heroku
+### Push to heroku
 ```
 git add .
 git commit -am "Initial commit"
