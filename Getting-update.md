@@ -7,6 +7,8 @@ Assistant will check update every bot is running, make sure you're on official b
 * To get update, type `update now` in your nana bot.
 * You can update via Assistant (If they notify you), just click Update Now and wait for update!
 
+> Note: Sometimes soft reboot doesn't take any changes, just restart your bot manual to take any changes.
+
 ## Update manual
 You can update manual, if you're on your forked git, just follow this guide
 
@@ -38,9 +40,6 @@ Or reset all
 git reset --hard
 ```
 Then you can pull again
-
-
-> Note: Sometimes soft reboot doesn't take any changes, just restart your bot manual to take any changes.
 
 ***
 
