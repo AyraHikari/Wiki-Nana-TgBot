@@ -39,8 +39,9 @@ git reset --hard
 ```
 Then you can pull again
 
-***
 
 > Note: Sometimes soft reboot doesn't take any changes, just restart your bot manual to take any changes.
+
+***
 
 Seeking extra help? Don't be shy, come join and ask our [Community](https://t.me/AyraSupport)!
