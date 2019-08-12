@@ -25,7 +25,7 @@ AdminSettings = [388576209] # From guide no 3
 
 If you can't have a config.py file (EG on heroku), it is also possible to use environment variables. The following env variables are supported:
 
-> * = Means you can fill multiple, separeted by space ( )
+> Star (*) = Means you can fill multiple, separeted by space ( )
 
 ### Must be filled
 - `ENV`: **You must** fill this for environment work!
