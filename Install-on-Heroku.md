@@ -10,7 +10,22 @@ Click Deploy button bellow, and follow guide.
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AyraHikari/Nana-TgBot)
 
-> If you don't know how to fill var, see [Configuration](https://github.com/AyraHikari/Nana-TgBot/wiki/Configuration#using-environment-variable)
+1. You need python3 to make session strings!
+2. Create a bot from @botfather, copy token
+3. Register Telegram API, and copy `app_id` and `app_hash` for later.
+4. Clone this: `https://github.com/AyraHikari/pyrogram-session-maker`
+5. Install python and pyrogram:
+`apt install python3`
+`pip3 install pyrogram`
+6. Run session maker:
+`python3 maker.py`
+And then follow setup guide. Create and copy user and bot session string for later!
+7. Go here, and fill any REQUIRED labeled, you can leave it blank for optional.
+If you dont know what that means, [read here](https://github.com/AyraHikari/Nana-TgBot/wiki/Configuration#using-environment-variable)
+8. After that, click **Deploy app** button
+9. After deploy successfully, go to your Heroku app, go to Resources tab, Turn on Worker switch
+
+> If you don't know how to fill variable, see [Configuration](https://github.com/AyraHikari/Nana-TgBot/wiki/Configuration#using-environment-variable)
 
 # Create an App
 
