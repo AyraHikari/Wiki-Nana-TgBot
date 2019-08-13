@@ -12,6 +12,12 @@
 4. [Go here](https://dashboard.heroku.com/apps), and select your app
 5. Then you're ready to go next guide
 
+# Use Heroku template
+
+Click Deploy button bellow, and follow guide.
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AyraHikari/Nana-TgBot)
+
 # Use Heroku CLI
 - You can download and install Heroku CLI in here
 > https://devcenter.heroku.com/articles/heroku-cli
