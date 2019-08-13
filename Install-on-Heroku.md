@@ -4,14 +4,6 @@
 - You have session file for your account. (login pyrogram)
 - A brain
 
-# Create an App
-
-1. Make sure you're logged in on Heroku, if not [login here](https://dashboard.heroku.com/login)
-2. [Go here](https://dashboard.heroku.com/new-app) to create a new app, then fill form as you like
-3. After created a new app, follow setup wizard until done.
-4. [Go here](https://dashboard.heroku.com/apps), and select your app
-5. Then you're ready to go next guide
-
 # Use Heroku template
 
 Click Deploy button bellow, and follow guide.
@@ -19,6 +11,14 @@ Click Deploy button bellow, and follow guide.
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AyraHikari/Nana-TgBot)
 
 > If you don't know how to fill var, see [Configuration](https://github.com/AyraHikari/Nana-TgBot/wiki/Configuration#using-environment-variable)
+
+# Create an App
+
+1. Make sure you're logged in on Heroku, if not [login here](https://dashboard.heroku.com/login)
+2. [Go here](https://dashboard.heroku.com/new-app) to create a new app, then fill form as you like
+3. After created a new app, follow setup wizard until done.
+4. [Go here](https://dashboard.heroku.com/apps), and select your app
+5. Then you're ready to go next guide
 
 # Use Heroku CLI
 - You can download and install Heroku CLI in here
