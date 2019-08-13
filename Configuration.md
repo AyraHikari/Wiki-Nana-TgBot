@@ -23,6 +23,9 @@ AdminSettings = [388576209] # From guide no 3
 ## You will need this to generate session string
 > https://github.com/AyraHikari/pyrogram-session-maker
 
+How to use session-maker?
+Run maker and follow setup wizard: `python maker.py`
+
 If you can't have a config.py file (EG on heroku), it is also possible to use environment variables. The following env variables are supported:
 
 > Star (*) = Means you can fill multiple, separeted by space ( )
