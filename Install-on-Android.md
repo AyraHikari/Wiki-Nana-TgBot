@@ -11,7 +11,7 @@ Also you can install kali nethunter in your android, but that was for **advanced
 ## Install Termux Requirements
 You need this to run your bot
 ```
-pkg update && pkg install clang git postgresql python libcrypt-dev libjpeg-turbo
+pkg update && pkg install clang git postgresql python libcrypt libjpeg-turbo
 ```
 
 ## Clone repository
