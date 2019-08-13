@@ -18,6 +18,8 @@ Click Deploy button bellow, and follow guide.
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AyraHikari/Nana-TgBot)
 
+> If you don't know how to fill var, see [Configuration](https://github.com/AyraHikari/Nana-TgBot/wiki/Configuration#using-environment-variable)
+
 # Use Heroku CLI
 - You can download and install Heroku CLI in here
 > https://devcenter.heroku.com/articles/heroku-cli
