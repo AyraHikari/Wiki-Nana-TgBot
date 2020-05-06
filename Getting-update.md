@@ -15,7 +15,7 @@ You can update manual, if you're on your forked git, just follow this guide
 * Create remote upstream
 If you already have that remote, go next!
 ```
-git remote add upstream https://github.com/AyraHikari/Nana-TgBot
+git remote add upstream https://github.com/AyraHikari/Wiki-Nana-TgBot
 ```
 
 * Fetch update from upstream

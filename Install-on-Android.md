@@ -6,7 +6,7 @@ To run python you need this app
 
 Also you can install kali nethunter in your android, but that was for **advanced user only**.
 
-> Before you go next guide, please look [this note first](https://github.com/AyraHikari/Nana-TgBot/wiki/Install-on-Android#note), so if something is wrong, you will know what to do next!
+> Before you go next guide, please look [this note first](https://github.com/AyraHikari/Wiki-Nana-TgBot/wiki/Install-on-Android#note), so if something is wrong, you will know what to do next!
 
 ## Install Termux Requirements
 You need this to run your bot
@@ -17,7 +17,7 @@ pkg update && pkg install clang git postgresql python libcrypt libjpeg-turbo
 ## Clone repository
 Don't forget to clone repository, do this
 ```
-git clone https://github.com/AyraHikari/Nana-TgBot
+git clone https://github.com/AyraHikari/Wiki-Nana-TgBot
 ```
 And then change dir to that repo
 ```

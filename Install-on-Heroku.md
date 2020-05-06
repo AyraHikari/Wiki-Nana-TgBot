@@ -8,7 +8,7 @@
 
 Click Deploy button bellow, and follow guide.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AyraHikari/Nana-TgBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AyraHikari/Wiki-Nana-TgBot)
 
 1. You need python3 to make session strings!
 2. Create a bot from @botfather, copy token
@@ -21,11 +21,11 @@ Click Deploy button bellow, and follow guide.
 `python3 maker.py`
 And then follow setup guide. Create and copy user and bot session string for later!
 7. Go here, and fill any REQUIRED labeled, you can leave it blank for optional.
-If you dont know what that means, [read here](https://github.com/AyraHikari/Nana-TgBot/wiki/Configuration#using-environment-variable)
+If you dont know what that means, [read here](https://github.com/AyraHikari/Wiki-Nana-TgBot/wiki/Configuration#using-environment-variable)
 8. After that, click **Deploy app** button
 9. After deploy successfully, go to your Heroku app, go to Resources tab, Turn on Worker switch
 
-> If you don't know how to fill variable, see [Configuration](https://github.com/AyraHikari/Nana-TgBot/wiki/Configuration#using-environment-variable)
+> If you don't know how to fill variable, see [Configuration](https://github.com/AyraHikari/Wiki-Nana-TgBot/wiki/Configuration#using-environment-variable)
 
 # Create an App
 
@@ -51,7 +51,7 @@ If you dont know what that means, [read here](https://github.com/AyraHikari/Nana
 ### Clone repository
 **You need to install git command**, google it if you dont know how to install that!
 ```
-git remote add upstream https://github.com/AyraHikari/Nana-TgBot
+git remote add upstream https://github.com/AyraHikari/Wiki-Nana-TgBot
 git pull upstream master
 ```
 
@@ -62,7 +62,7 @@ git pull upstream master
 4. Go to Settings tab, View Credentials, copy URI for config later
 
 ### Configuration
-- [Go here](https://github.com/AyraHikari/Nana-TgBot/wiki/Configuration) and come back to here after you're create a config.py!
+- [Go here](https://github.com/AyraHikari/Wiki-Nana-TgBot/wiki/Configuration) and come back to here after you're create a config.py!
 
 ### Push to heroku
 ```

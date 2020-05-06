@@ -7,7 +7,7 @@ apt update -y && apt install git postgresql python3 python3-pip  python-psycopg2
 ## Clone repository
 Don't forget to clone repository, do this
 ```
-git clone https://github.com/AyraHikari/Nana-TgBot
+git clone https://github.com/AyraHikari/Wiki-Nana-TgBot
 ```
 And then change dir to that repo
 ```
